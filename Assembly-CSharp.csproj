@@ -13,7 +13,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{15e697aa-cc0e-9ad7-516a-9c6040152727}</ProjectGuid>
+    <ProjectGuid>{ca0f08a3-635a-2d77-9d72-928fbb17a664}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,61 +53,61 @@
   <ItemGroup>
     <Compile Include="Assets\Mechanics\Scripts\InputController.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Connect.Share.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.Connect.Share.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Connect.Share.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridgeDev.001">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.InteractiveTutorialsFramework">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>G:/ProgramFiles_G/Unity/Editor/2019.4.26f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -293,7 +293,7 @@
       <HintPath>G:/ProgramFiles_G/Unity/Editor/2019.4.26f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Compression.FileSystem">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/TestWorkProject/Library/PackageCache/com.unity.connect.share@2.0.3/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/PackageCache/com.unity.connect.share@2.0.3/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>G:/ProgramFiles_G/Unity/Editor/2019.4.26f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

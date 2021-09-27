@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8391667493935069662}
   - component: {fileID: 8362233248432996906}
-  - component: {fileID: 8403327991448761310}
+  - component: {fileID: 6109539483308781789}
   m_Layer: 0
   m_Name: Collider
   m_TagString: Untagged
@@ -40,8 +40,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8394237359182484408}
   m_Mesh: {fileID: 4300002, guid: 355e7b79ef5301043b6408f82ebfac05, type: 3}
---- !u!64 &8403327991448761310
-MeshCollider:
+--- !u!136 &6109539483308781789
+CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -50,10 +50,10 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300002, guid: 355e7b79ef5301043b6408f82ebfac05, type: 3}
+  m_Radius: 2.57
+  m_Height: 10.62
+  m_Direction: 0
+  m_Center: {x: -0.99, y: 0, z: 0}
 --- !u!1 &8394587991555515116
 GameObject:
   m_ObjectHideFlags: 0

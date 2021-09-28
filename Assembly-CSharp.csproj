@@ -51,6 +51,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Mechanics\Scripts\AreaManager.cs" />
     <Compile Include="Assets\Mechanics\Scripts\InputController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

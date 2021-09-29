@@ -240,6 +240,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 6146494331170223269, guid: 061b9ba39b901d74198de3e302e71ab2,
+        type: 3}
+      propertyPath: volumeLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
     - target: {fileID: 8969052162404743838, guid: 061b9ba39b901d74198de3e302e71ab2,
         type: 3}
       propertyPath: m_RootOrder

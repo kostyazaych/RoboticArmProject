@@ -92,11 +92,17 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
       <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Runtime">
+      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.InteractiveTutorialsFramework">
       <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
@@ -109,12 +115,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>G:/Documents_G/Unity/UnityProjects/RoboticArmProject/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>G:/ProgramFiles_G/Unity/Editor/2019.4.26f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
